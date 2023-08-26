@@ -10,7 +10,8 @@ This is a simple web page that allows you to enter a GitHub username and retriev
 
 ## Preview
 
-![Preview](preview.png)
+![Preview](./images/preview.png)
+
 
 ## Features
 
